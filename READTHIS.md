@@ -1,4 +1,3 @@
-
 # README Generator
 
 ## Application Description
@@ -30,3 +29,7 @@ No tests available at this moment
 ## Questions
 - [Email me here!](mailto:drewheaster@gmail.com)
 - [My GitHub Profile](https://www.github.com/drewheaster)
+
+
+# VIDEO WALKTHROUGH
+To access a video walkthrough, [click here!](https://drive.google.com/file/d/1zNSntq4CChVCrEJ_9TW8m3gSmx2RD2Dc/view?usp=sharing)
